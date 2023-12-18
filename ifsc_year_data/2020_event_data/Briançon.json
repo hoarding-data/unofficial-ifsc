@@ -1,0 +1,4526 @@
+{
+    "id": 65,
+    "name": "IFSC - Climbing World Cup (L) - Brian\u00e7on (FRA) 2020",
+    "league_id": 1,
+    "league_season_id": 14,
+    "season_id": 2,
+    "starts_at": "2020-08-20 22:00:00 UTC",
+    "ends_at": "2020-08-22 21:59:00 UTC",
+    "local_start_date": "2020-08-21",
+    "local_end_date": "2020-08-22",
+    "timezone": {
+        "value": "Europe/Paris"
+    },
+    "location": "Brian\u00e7on",
+    "public_information": {
+        "organiser_name": null,
+        "organiser_url": null,
+        "venue_name": null
+    },
+    "computed_combined_categories": [],
+    "team_ranking_disciplines": [
+        "lead"
+    ],
+    "team_ranking_url": "/api/v1/events/65/team_results/",
+    "categories": [
+        "LEAD Men",
+        "LEAD Women"
+    ],
+    "results": {
+        "LEAD Men": [
+            {
+                "athlete_id": 1364,
+                "rank": 1,
+                "firstname": "Adam",
+                "lastname": "Ondra",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "1.22",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": true,
+                                "plus": false,
+                                "rank": 1,
+                                "corrective_rank": 1.5,
+                                "score": "TOP"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": true,
+                                "plus": false,
+                                "rank": 1,
+                                "corrective_rank": 1,
+                                "score": "TOP"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "39+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "39+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 190000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6138,
+                        "round_name": "Final",
+                        "score": "TOP",
+                        "ascents": [
+                            {
+                                "route_id": 1081,
+                                "route_name": "1",
+                                "top": true,
+                                "score": "TOP",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 187000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1129,
+                "rank": 2,
+                "firstname": "Domen",
+                "lastname": "Skofic",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "9.5",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 7,
+                                "corrective_rank": 9.5,
+                                "score": "36+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 8,
+                                "corrective_rank": 9.5,
+                                "score": "31+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "33+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "33+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 260000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6138,
+                        "round_name": "Final",
+                        "score": "41",
+                        "ascents": [
+                            {
+                                "route_id": 1081,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "41",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 233000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1214,
+                "rank": 3,
+                "firstname": "Jakob",
+                "lastname": "Schubert",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "2.29",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": true,
+                                "plus": false,
+                                "rank": 1,
+                                "corrective_rank": 1.5,
+                                "score": "TOP"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 2,
+                                "corrective_rank": 3.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "39+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "39+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 269000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6138,
+                        "round_name": "Final",
+                        "score": "38+",
+                        "ascents": [
+                            {
+                                "route_id": 1081,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "38+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 239000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1170,
+                "rank": 4,
+                "firstname": "Luka",
+                "lastname": "Potocar",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "9.5",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 7,
+                                "corrective_rank": 9.5,
+                                "score": "36+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 8,
+                                "corrective_rank": 9.5,
+                                "score": "31+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "29+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "29+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 205000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6138,
+                        "round_name": "Final",
+                        "score": "30",
+                        "ascents": [
+                            {
+                                "route_id": 1081,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "30",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 184000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2574,
+                "rank": 5,
+                "firstname": "Alexander",
+                "lastname": "Megos",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "3.97",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 3,
+                                "corrective_rank": 4.5,
+                                "score": "40+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 2,
+                                "corrective_rank": 3.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "36+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "36+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 211000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6138,
+                        "round_name": "Final",
+                        "score": "27",
+                        "ascents": [
+                            {
+                                "route_id": 1081,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "27",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 124000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1251,
+                "rank": 6,
+                "firstname": "Mathias",
+                "lastname": "Posch",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "16.32",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 20.5,
+                                "score": "25+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 13,
+                                "corrective_rank": 13,
+                                "score": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "29",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "29",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 144000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6138,
+                        "round_name": "Final",
+                        "score": "26",
+                        "ascents": [
+                            {
+                                "route_id": 1081,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 143000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 11675,
+                "rank": 7,
+                "firstname": "Mejdi",
+                "lastname": "Schalck",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "9.5",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 7,
+                                "corrective_rank": 9.5,
+                                "score": "36+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 8,
+                                "corrective_rank": 9.5,
+                                "score": "31+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "32",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "32",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 147000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6138,
+                        "round_name": "Final",
+                        "score": "25+",
+                        "ascents": [
+                            {
+                                "route_id": 1081,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "25+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 109000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 519,
+                "rank": 8,
+                "firstname": "Nao",
+                "lastname": "Monchois",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "9.72",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 3,
+                                "corrective_rank": 4.5,
+                                "score": "40+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 19,
+                                "corrective_rank": 21,
+                                "score": "29"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "30",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "30",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 222000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6138,
+                        "round_name": "Final",
+                        "score": "25+",
+                        "ascents": [
+                            {
+                                "route_id": 1081,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "25+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 131000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 492,
+                "rank": 9,
+                "firstname": "Hugo",
+                "lastname": "Parmentier",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "11.68",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 2,
+                                "corrective_rank": 3.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "28+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "28+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 138000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 547,
+                "rank": 10,
+                "firstname": "Paul",
+                "lastname": "Jenft",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "20.59",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 26.5,
+                                "score": "24+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 14,
+                                "corrective_rank": 16,
+                                "score": "29+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "27",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "27",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 142000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3361,
+                "rank": 11,
+                "firstname": "Rishat",
+                "lastname": "Khaibullin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "KAZ",
+                "federation_id": 47,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "6.54",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 3,
+                                "corrective_rank": 4.5,
+                                "score": "40+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 8,
+                                "corrective_rank": 9.5,
+                                "score": "31+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 151000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 532,
+                "rank": 12,
+                "firstname": "Sam",
+                "lastname": "Avezou",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "9.87",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 15,
+                                "corrective_rank": 15,
+                                "score": "28"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 6,
+                                "corrective_rank": 6.5,
+                                "score": "32"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 112000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 584,
+                "rank": 13,
+                "firstname": "Diego",
+                "lastname": "Fourbet",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "11.54",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 20.5,
+                                "score": "25+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 6,
+                                "corrective_rank": 6.5,
+                                "score": "32"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 134000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1389,
+                "rank": 14,
+                "firstname": "Jakub",
+                "lastname": "Konecny",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "19.29",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 31,
+                                "corrective_rank": 31,
+                                "score": "23+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 12,
+                                "corrective_rank": 12,
+                                "score": "30+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 142000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 854,
+                "rank": 15,
+                "firstname": "Marcello",
+                "lastname": "Bombardi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "12.33",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 7,
+                                "corrective_rank": 9.5,
+                                "score": "36+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 14,
+                                "corrective_rank": 16,
+                                "score": "29+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "26",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 144000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 544,
+                "rank": 16,
+                "firstname": "Alistair",
+                "lastname": "Duval",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "18.11",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 20.5,
+                                "score": "25+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 14,
+                                "corrective_rank": 16,
+                                "score": "29+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "26",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 127000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 470,
+                "rank": 17,
+                "firstname": "Jeremy",
+                "lastname": "Bonder",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "23.59",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 26.5,
+                                "score": "24+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 19,
+                                "corrective_rank": 21,
+                                "score": "29"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "23",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "23",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 100000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 811,
+                "rank": 18,
+                "firstname": "Alberto",
+                "lastname": "Gin\u00e9s L\u00f3pez",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "3.97",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 3,
+                                "corrective_rank": 4.5,
+                                "score": "40+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 2,
+                                "corrective_rank": 3.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "22+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "22+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 110000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 765,
+                "rank": 19,
+                "firstname": "Philipp",
+                "lastname": "Martin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "16.6",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 7,
+                                "corrective_rank": 9.5,
+                                "score": "36+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 29,
+                                "corrective_rank": 29,
+                                "score": "27+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "22+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "22+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 122000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 505,
+                "rank": 20,
+                "firstname": "Leo",
+                "lastname": "Avezou",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "18.55",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 13,
+                                "corrective_rank": 13.5,
+                                "score": "30+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 24,
+                                "corrective_rank": 25.5,
+                                "score": "28+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "22",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "22",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 85000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 912,
+                "rank": 21,
+                "firstname": "Filip",
+                "lastname": "Schenk",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "20.12",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 13,
+                                "corrective_rank": 13.5,
+                                "score": "30+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 30,
+                                "corrective_rank": 30,
+                                "score": "27"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "22",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "22",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 125000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2014,
+                "rank": 22,
+                "firstname": "Christoph",
+                "lastname": "Hanke",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "18.11",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 20.5,
+                                "score": "25+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 14,
+                                "corrective_rank": 16,
+                                "score": "29+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "21+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "21+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 115000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3131,
+                "rank": 23,
+                "firstname": "Yannick",
+                "lastname": "Floh\u00e9",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "22.86",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 20.5,
+                                "score": "25+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 24,
+                                "corrective_rank": 25.5,
+                                "score": "28+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "21+",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "21+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 96000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1361,
+                "rank": 24,
+                "firstname": "Martin",
+                "lastname": "Stranik",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "15.56",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 7,
+                                "corrective_rank": 9.5,
+                                "score": "36+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 24,
+                                "corrective_rank": 25.5,
+                                "score": "28+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "20",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "20",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 80000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 314,
+                "rank": 25,
+                "firstname": "Lo\u00efc",
+                "lastname": "Timmermans",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "20.2",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 16,
+                                "corrective_rank": 16,
+                                "score": "26"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 24,
+                                "corrective_rank": 25.5,
+                                "score": "28+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "20",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "20",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 116000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 953,
+                "rank": 26,
+                "firstname": "Davide Marco",
+                "lastname": "Colombo",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "20.75",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 20.5,
+                                "score": "25+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 19,
+                                "corrective_rank": 21,
+                                "score": "29"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "20",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "20",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 86000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 518,
+                "rank": 27,
+                "firstname": "Adrien",
+                "lastname": "Lemaire",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "23.59",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 26.5,
+                                "score": "24+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 19,
+                                "corrective_rank": 21,
+                                "score": "29"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6136,
+                        "round_name": "Semi-Final",
+                        "score": "20",
+                        "ascents": [
+                            {
+                                "route_id": 1079,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "20",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 106000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 864,
+                "rank": 28,
+                "firstname": "Francesco",
+                "lastname": "Vettorata",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "24.98",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 14,
+                                "corrective_rank": 16,
+                                "score": "29+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1418,
+                "rank": 29,
+                "firstname": "Simon",
+                "lastname": "Potucek",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "26.4",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 20.5,
+                                "score": "25+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 33,
+                                "corrective_rank": 34,
+                                "score": "25+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3422,
+                "rank": 29,
+                "firstname": "Jan",
+                "lastname": "Hojer",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "26.4",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 20.5,
+                                "score": "25+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 33,
+                                "corrective_rank": 34,
+                                "score": "25+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 320,
+                "rank": 31,
+                "firstname": "Nicolas",
+                "lastname": "Collin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "28.62",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 19,
+                                "corrective_rank": 21,
+                                "score": "29"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1158,
+                "rank": 32,
+                "firstname": "Ziga",
+                "lastname": "Zajc",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "30.48",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 29,
+                                "corrective_rank": 29.5,
+                                "score": "24"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 31,
+                                "corrective_rank": 31.5,
+                                "score": "26"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 356,
+                "rank": 33,
+                "firstname": "Ties",
+                "lastname": "Vancraeynest",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "32.81",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 29,
+                                "corrective_rank": 29.5,
+                                "score": "24"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 36,
+                                "corrective_rank": 36.5,
+                                "score": "24+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 793,
+                "rank": 34,
+                "firstname": "Mikel Asier",
+                "lastname": "Linacisoro Molina",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "33.05",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 28,
+                                "corrective_rank": 28,
+                                "score": "28"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3127,
+                "rank": 35,
+                "firstname": "Max",
+                "lastname": "Kleesattel",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "33.16",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 26.5,
+                                "score": "24+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 39,
+                                "corrective_rank": 41.5,
+                                "score": "20+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1135,
+                "rank": 36,
+                "firstname": "Martin",
+                "lastname": "Bergant",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "35.05",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 31,
+                                "corrective_rank": 31.5,
+                                "score": "26"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1274,
+                "rank": 37,
+                "firstname": "Stefan",
+                "lastname": "Scherz",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "36.41",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 33,
+                                "corrective_rank": 34,
+                                "score": "25+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 369,
+                "rank": 38,
+                "firstname": "Arno",
+                "lastname": "Luypaert",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "36.44",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 32,
+                                "corrective_rank": 32,
+                                "score": "19+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 39,
+                                "corrective_rank": 41.5,
+                                "score": "20+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 808,
+                "rank": 39,
+                "firstname": "H\u00e9ctor",
+                "lastname": "Bazan Mart\u00edn",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "37.01",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 33,
+                                "corrective_rank": 33,
+                                "score": "18+"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 39,
+                                "corrective_rank": 41.5,
+                                "score": "20+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1134,
+                "rank": 40,
+                "firstname": "Milan",
+                "lastname": "Preskar",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "37.73",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 36,
+                                "corrective_rank": 36.5,
+                                "score": "24+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1234,
+                "rank": 41,
+                "firstname": "Georg",
+                "lastname": "Parma",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "38.5",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 38,
+                                "corrective_rank": 38,
+                                "score": "22+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 865,
+                "rank": 42,
+                "firstname": "Ludovico",
+                "lastname": "Fossali",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "40.23",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 39,
+                                "corrective_rank": 41.5,
+                                "score": "20+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1449,
+                "rank": 42,
+                "firstname": "Stepan",
+                "lastname": "Potucek",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "40.23",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 39,
+                                "corrective_rank": 41.5,
+                                "score": "20+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 339,
+                "rank": 42,
+                "firstname": "Sven",
+                "lastname": "Lempereur",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 469,
+                        "round_name": "Qualification",
+                        "score": "40.23",
+                        "ascents": [
+                            {
+                                "route_id": 185,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 34,
+                                "corrective_rank": 39,
+                                "score": "18"
+                            },
+                            {
+                                "route_id": 186,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 39,
+                                "corrective_rank": 41.5,
+                                "score": "20+"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "LEAD Women": [
+            {
+                "athlete_id": 928,
+                "rank": 1,
+                "firstname": "Laura",
+                "lastname": "Rogora",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "1.94",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": true,
+                                "plus": false,
+                                "rank": 1,
+                                "corrective_rank": 2.5,
+                                "score": "TOP"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 1,
+                                "corrective_rank": 1.5,
+                                "score": "43+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "33",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "33",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 231000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "TOP",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": true,
+                                "score": "TOP",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 328000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1147,
+                "rank": 2,
+                "firstname": "Janja",
+                "lastname": "Garnbret",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "1.94",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": true,
+                                "plus": false,
+                                "rank": 1,
+                                "corrective_rank": 2.5,
+                                "score": "TOP"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 1,
+                                "corrective_rank": 1.5,
+                                "score": "43+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 149000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "TOP",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": true,
+                                "score": "TOP",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 348000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 469,
+                "rank": 3,
+                "firstname": "Fanny",
+                "lastname": "Gibert",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "15.72",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 19,
+                                "score": "34+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 143000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "42",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "42",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 209000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1226,
+                "rank": 4,
+                "firstname": "Jessica",
+                "lastname": "Pilz",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "9.54",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 5,
+                                "corrective_rank": 7,
+                                "score": "45+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 168000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "41+",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "41+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 288000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1153,
+                "rank": 5,
+                "firstname": "Vita",
+                "lastname": "Lukan",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "4.18",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": true,
+                                "plus": false,
+                                "rank": 1,
+                                "corrective_rank": 2.5,
+                                "score": "TOP"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 7,
+                                "corrective_rank": 7,
+                                "score": "40"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 159000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "39+",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "39+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 254000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1139,
+                "rank": 6,
+                "firstname": "Tjasa",
+                "lastname": "Kalan",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "7.48",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 5,
+                                "corrective_rank": 7,
+                                "score": "45+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 8,
+                                "corrective_rank": 8,
+                                "score": "35+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 192000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "39+",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "39+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 330000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 514,
+                "rank": 7,
+                "firstname": "Nina",
+                "lastname": "Arthaud",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "17.54",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 15,
+                                "corrective_rank": 15,
+                                "score": "41+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 20.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "27",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "27",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 141000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "34+",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "34+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 205000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 914,
+                "rank": 8,
+                "firstname": "Giorgia",
+                "lastname": "Tesio",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "15.72",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 19,
+                                "score": "34+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 136000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "30+",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "30+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 193000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1181,
+                "rank": 9,
+                "firstname": "Lucija",
+                "lastname": "Tarkus",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "9.54",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 5,
+                                "corrective_rank": 7,
+                                "score": "45+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 194000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6139,
+                        "round_name": "Final",
+                        "score": "24+",
+                        "ascents": [
+                            {
+                                "route_id": 1082,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "24+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 197000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1239,
+                "rank": 10,
+                "firstname": "Julia",
+                "lastname": "Fiser",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "23.74",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 27.5,
+                                "score": "32+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 20.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "26+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 163000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 561,
+                "rank": 11,
+                "firstname": "Camille",
+                "lastname": "Pouget",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "15.72",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 19,
+                                "score": "34+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "25+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "25+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 158000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 466,
+                "rank": 12,
+                "firstname": "Julia",
+                "lastname": "Chanourdie",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "3.16",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": true,
+                                "plus": false,
+                                "rank": 1,
+                                "corrective_rank": 2.5,
+                                "score": "TOP"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 4,
+                                "corrective_rank": 4,
+                                "score": "41+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "24+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "24+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 135000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1400,
+                "rank": 13,
+                "firstname": "Eliska",
+                "lastname": "Adamovska",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "6.2",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 5,
+                                "corrective_rank": 7,
+                                "score": "45+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 5,
+                                "corrective_rank": 5.5,
+                                "score": "40+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "24+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "24+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 178000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1210,
+                "rank": 14,
+                "firstname": "Christine",
+                "lastname": "Schranz",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "8.62",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 13,
+                                "corrective_rank": 13.5,
+                                "score": "43+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 5,
+                                "corrective_rank": 5.5,
+                                "score": "40+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "24+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "24+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 227000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 860,
+                "rank": 15,
+                "firstname": "Claudia",
+                "lastname": "Ghisolfi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "14.42",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 16,
+                                "corrective_rank": 16,
+                                "score": "40+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "24+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "24+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 171000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 328,
+                "rank": 16,
+                "firstname": "Helo\u00efse",
+                "lastname": "Doumont",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "16.25",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 10,
+                                "corrective_rank": 11,
+                                "score": "44+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 24,
+                                "corrective_rank": 24,
+                                "score": "33"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "24",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "24",
+                                "plus": false,
+                                "restarted": false,
+                                "time_ms": 163000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1148,
+                "rank": 17,
+                "firstname": "Tjasa",
+                "lastname": "Slemensek",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "11.96",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 10,
+                                "corrective_rank": 11,
+                                "score": "44+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "23+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "23+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 172000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 467,
+                "rank": 18,
+                "firstname": "Salom\u00e9",
+                "lastname": "Romain",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "11.98",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 5,
+                                "corrective_rank": 7,
+                                "score": "45+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 20.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "23+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "23+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 156000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 530,
+                "rank": 19,
+                "firstname": "Nolwenn",
+                "lastname": "Arc",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "5.74",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 10,
+                                "corrective_rank": 11,
+                                "score": "44+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 3,
+                                "corrective_rank": 3,
+                                "score": "43"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "19+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "19+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 139000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 363,
+                "rank": 20,
+                "firstname": "Lucie",
+                "lastname": "Watillon",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "17.48",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 23,
+                                "corrective_rank": 23.5,
+                                "score": "33+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "19+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "19+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 99000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3113,
+                "rank": 21,
+                "firstname": "Hannah",
+                "lastname": "Meul",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "20.99",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 21,
+                                "corrective_rank": 21.5,
+                                "score": "34"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 20.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "19+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "19+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 76000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 12326,
+                "rank": 21,
+                "firstname": "INA",
+                "lastname": "PLASSOUX DJIGA",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "20.99",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 21,
+                                "corrective_rank": 21.5,
+                                "score": "34"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 20.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "19+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "19+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 102000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 895,
+                "rank": 23,
+                "firstname": "Ilaria",
+                "lastname": "Scolaris",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "21.95",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 23,
+                                "corrective_rank": 23.5,
+                                "score": "33+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 18,
+                                "corrective_rank": 20.5,
+                                "score": "33+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "19+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "19+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 118000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 12324,
+                "rank": 24,
+                "firstname": "Martina",
+                "lastname": "Demmel",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "26.48",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 27.5,
+                                "score": "32+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 25,
+                                "corrective_rank": 25.5,
+                                "score": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "19+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "19+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 113000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1155,
+                "rank": 25,
+                "firstname": "Lana",
+                "lastname": "Skusek",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "14.87",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 17,
+                                "corrective_rank": 17,
+                                "score": "38+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 9,
+                                "corrective_rank": 13,
+                                "score": "34+"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "17+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "17+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 97000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1453,
+                "rank": 26,
+                "firstname": "Marketa",
+                "lastname": "Janosova",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "18.55",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 13,
+                                "corrective_rank": 13.5,
+                                "score": "43+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 25,
+                                "corrective_rank": 25.5,
+                                "score": "30"
+                            }
+                        ]
+                    },
+                    {
+                        "category_round_id": 6137,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "ascents": [
+                            {
+                                "route_id": 1080,
+                                "route_name": "1",
+                                "top": false,
+                                "score": "10+",
+                                "plus": true,
+                                "restarted": false,
+                                "time_ms": 137000,
+                                "modified": "2020-11-05 17:16:19 +00:00",
+                                "status": "confirmed"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4320,
+                "rank": 27,
+                "firstname": "Roxana",
+                "lastname": "Wienand",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "27.75",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 27.5,
+                                "score": "32+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 27,
+                                "corrective_rank": 28,
+                                "score": "29+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4330,
+                "rank": 28,
+                "firstname": "Lucia",
+                "lastname": "D\u00f6rffel",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "28.96",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 27.5,
+                                "score": "32+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 30,
+                                "corrective_rank": 30.5,
+                                "score": "28+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 11653,
+                "rank": 29,
+                "firstname": "Agathe",
+                "lastname": "Calliet",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "31.96",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 33,
+                                "corrective_rank": 33.5,
+                                "score": "30+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 30,
+                                "corrective_rank": 30.5,
+                                "score": "28+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1438,
+                "rank": 30,
+                "firstname": "Michaela",
+                "lastname": "Smetanova",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "32.19",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 37,
+                                "corrective_rank": 37,
+                                "score": "27+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 27,
+                                "corrective_rank": 28,
+                                "score": "29+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3132,
+                "rank": 31,
+                "firstname": "Luisa",
+                "lastname": "Floh\u00e9",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "32.33",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 27.5,
+                                "score": "32+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 36,
+                                "corrective_rank": 38,
+                                "score": "25+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 609,
+                "rank": 32,
+                "firstname": "Colette",
+                "lastname": "Bobenrieth",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "33.2",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 31,
+                                "corrective_rank": 31.5,
+                                "score": "31"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 35,
+                                "corrective_rank": 35,
+                                "score": "26"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 977,
+                "rank": 33,
+                "firstname": "Silvia",
+                "lastname": "Cassol",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "33.25",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 33,
+                                "corrective_rank": 33.5,
+                                "score": "30+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 32,
+                                "corrective_rank": 33,
+                                "score": "26+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3840,
+                "rank": 34,
+                "firstname": "Stasa",
+                "lastname": "Gejo",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SRB",
+                "federation_id": 56,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "33.99",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 35,
+                                "corrective_rank": 35,
+                                "score": "29+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 32,
+                                "corrective_rank": 33,
+                                "score": "26+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 805,
+                "rank": 34,
+                "firstname": "Ana Bel\u00e9n",
+                "lastname": "Argudo Marugan",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "33.99",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 25,
+                                "corrective_rank": 27.5,
+                                "score": "32+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 41,
+                                "corrective_rank": 42,
+                                "score": "25"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1259,
+                "rank": 36,
+                "firstname": "Eva Maria",
+                "lastname": "Hammelm\u00fcller",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "34.09",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 41,
+                                "corrective_rank": 41.5,
+                                "score": "22+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 27,
+                                "corrective_rank": 28,
+                                "score": "29+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1266,
+                "rank": 37,
+                "firstname": "Mattea",
+                "lastname": "P\u00f6tzi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "34.6",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 31,
+                                "corrective_rank": 31.5,
+                                "score": "31"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 36,
+                                "corrective_rank": 38,
+                                "score": "25+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 601,
+                "rank": 38,
+                "firstname": "Saula",
+                "lastname": "Lerondel",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "35.41",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 38,
+                                "corrective_rank": 38,
+                                "score": "26"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 32,
+                                "corrective_rank": 33,
+                                "score": "26+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1441,
+                "rank": 39,
+                "firstname": "Nikola",
+                "lastname": "Kralikova",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "36.99",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 36,
+                                "corrective_rank": 36,
+                                "score": "28+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 36,
+                                "corrective_rank": 38,
+                                "score": "25+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 810,
+                "rank": 40,
+                "firstname": "Maria",
+                "lastname": "Benach Zubero",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "38.99",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": false,
+                                "rank": 40,
+                                "corrective_rank": 40,
+                                "score": "23"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 36,
+                                "corrective_rank": 38,
+                                "score": "25+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 841,
+                "rank": 41,
+                "firstname": "Aida",
+                "lastname": "Torres Illamola",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "40.42",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 43,
+                                "corrective_rank": 43,
+                                "score": "19+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": true,
+                                "rank": 36,
+                                "corrective_rank": 38,
+                                "score": "25+"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1447,
+                "rank": 42,
+                "firstname": "Tereza",
+                "lastname": "\u0160ir\u016f\u010dkov\u00e1",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "40.47",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 39,
+                                "corrective_rank": 39,
+                                "score": "24+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 41,
+                                "corrective_rank": 42,
+                                "score": "25"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 11614,
+                "rank": 43,
+                "firstname": "Bianca",
+                "lastname": "Magalhaes de Castro ",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BRA",
+                "federation_id": 40,
+                "rounds": [
+                    {
+                        "category_round_id": 470,
+                        "round_name": "Qualification",
+                        "score": "41.75",
+                        "ascents": [
+                            {
+                                "route_id": 187,
+                                "route_name": "1",
+                                "top": false,
+                                "plus": true,
+                                "rank": 41,
+                                "corrective_rank": 41.5,
+                                "score": "22+"
+                            },
+                            {
+                                "route_id": 188,
+                                "route_name": "2",
+                                "top": false,
+                                "plus": false,
+                                "rank": 41,
+                                "corrective_rank": 42,
+                                "score": "25"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "event_videos": [
+        {
+            "event_name": "LEAD Men",
+            "original_url": "",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "LEAD Women",
+            "original_url": "",
+            "ipfs_cid": ""
+        }
+    ]
+}

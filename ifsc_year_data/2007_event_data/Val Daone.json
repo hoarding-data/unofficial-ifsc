@@ -1,0 +1,1800 @@
+{
+    "id": 479,
+    "name": "IFSC Climbing Worldcup (S) - Val Daone (ITA) 2007",
+    "league_id": 1,
+    "league_season_id": 232,
+    "season_id": 20,
+    "starts_at": "2007-07-21 00:00:00 UTC",
+    "ends_at": "2007-07-22 00:00:00 UTC",
+    "local_start_date": "2007-07-21",
+    "local_end_date": "2007-07-22",
+    "timezone": null,
+    "location": "Val Daone",
+    "public_information": {
+        "organiser_name": null,
+        "organiser_url": null,
+        "venue_name": null
+    },
+    "computed_combined_categories": [],
+    "team_ranking_disciplines": [
+        "speed"
+    ],
+    "team_ranking_url": "/api/v1/events/479/team_results/",
+    "categories": [
+        "SPEED Men",
+        "SPEED Women"
+    ],
+    "results": {
+        "SPEED Men": [
+            {
+                "athlete_id": 48,
+                "rank": 1,
+                "firstname": "Sergei",
+                "lastname": "Sinitcyn",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "17.650",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "39.090",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "1",
+                                "score": "39.770"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": "1",
+                                "score": "39.230"
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": "2",
+                                "score": "50.640"
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": "1",
+                                "score": "39.090"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 56,
+                "rank": 2,
+                "firstname": "Evgenii",
+                "lastname": "Vaitsekhovskii",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "18.480",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "fall",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "5",
+                                "score": "49.600"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": "4",
+                                "score": "50.020"
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": "1",
+                                "score": "43.900"
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": "2",
+                                "score": "fall"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 51,
+                "rank": 3,
+                "firstname": "Alexander",
+                "lastname": "Kosterin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "20.910",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "40.130",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "6",
+                                "score": "50.580"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": "2",
+                                "score": "44.490"
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": "3",
+                                "score": "fall"
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": "1",
+                                "score": "40.130"
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4745,
+                "rank": 4,
+                "firstname": "Lukasz",
+                "lastname": "Swirk",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "POL",
+                "federation_id": 36,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "26.130",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "43.730",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "4",
+                                "score": "49.560"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": "3",
+                                "score": "47.870"
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": "3",
+                                "score": "fall"
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": "2",
+                                "score": "43.730"
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3174,
+                "rank": 5,
+                "firstname": "Manuel",
+                "lastname": "Escobar",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "VEN",
+                "federation_id": 42,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "22.900",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "45.070",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "2",
+                                "score": "46.630"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": "5",
+                                "score": "45.070"
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4885,
+                "rank": 6,
+                "firstname": "Valeriy",
+                "lastname": "Vorobyev",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "28.140",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "49.490",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "7",
+                                "score": "51.400"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": "6",
+                                "score": "49.490"
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 54,
+                "rank": 7,
+                "firstname": "Anatoly",
+                "lastname": "Skripov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "25.320",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "50.420",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "3",
+                                "score": "48.930"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": "7",
+                                "score": "50.420"
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 52,
+                "rank": 8,
+                "firstname": "Alexander",
+                "lastname": "Peshekhonov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "23.870",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "77.940",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "8",
+                                "score": "54.950"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": "8",
+                                "score": "77.940"
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1359,
+                "rank": 9,
+                "firstname": "Libor",
+                "lastname": "Hroza",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "24.770",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "49.670",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "9",
+                                "score": "49.670"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3175,
+                "rank": 10,
+                "firstname": "Leonel",
+                "lastname": "De Las Salas",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "VEN",
+                "federation_id": 42,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "22.900",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "50.270",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "10",
+                                "score": "50.270"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 5803,
+                "rank": 11,
+                "firstname": "Iakov",
+                "lastname": "Subbotin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "26.190",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "50.900",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "11",
+                                "score": "50.900"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1470,
+                "rank": 12,
+                "firstname": "Maksym",
+                "lastname": "Styenkovyy",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "20.130",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "52.620",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "12",
+                                "score": "52.620"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 5181,
+                "rank": 13,
+                "firstname": "Ivan",
+                "lastname": "Shyshkovskyy",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "26.830",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "53.260",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "13",
+                                "score": "53.260"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4746,
+                "rank": 14,
+                "firstname": "Maksym",
+                "lastname": "Osipov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "25.850",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "58.810",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "14",
+                                "score": "58.810"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1208,
+                "rank": 15,
+                "firstname": "Mark",
+                "lastname": "Amann",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "31.390",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "63.210",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "15",
+                                "score": "63.210"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 434,
+                "rank": 16,
+                "firstname": "Nicolas",
+                "lastname": "Januel",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "33.780",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": "fall",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": "16",
+                                "score": "fall"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 5806,
+                "rank": 17,
+                "firstname": "Sergiy",
+                "lastname": "Kryvonos",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "33.810",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 5425,
+                "rank": 18,
+                "firstname": "Jiri",
+                "lastname": "Svacha",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "34.730",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4681,
+                "rank": 19,
+                "firstname": "Matthias",
+                "lastname": "Schmidl",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "35.220",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4957,
+                "rank": 20,
+                "firstname": "Michel",
+                "lastname": "Sirotti",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "36.170",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4753,
+                "rank": 21,
+                "firstname": "Salah",
+                "lastname": "Boulbahaiem",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "39.010",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 846,
+                "rank": 22,
+                "firstname": "Luca",
+                "lastname": "Giupponi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "41.050",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 5807,
+                "rank": 23,
+                "firstname": "Jakub",
+                "lastname": "Hejl",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 659,
+                        "round_name": "Qualification",
+                        "score": "51.450",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 660,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/8 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "6",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "SPEED Women": [
+            {
+                "athlete_id": 45,
+                "rank": 1,
+                "firstname": "Valentina",
+                "lastname": "Yurina",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "30.280",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": "55.610",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": "2",
+                                "score": "66.120"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": "2",
+                                "score": "64.650"
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": "1",
+                                "score": "55.610"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 42,
+                "rank": 2,
+                "firstname": "Tatiana",
+                "lastname": "Ruyga",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "30.700",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": "59.180",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": "1",
+                                "score": "64.160"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": "1",
+                                "score": "58.070"
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": "2",
+                                "score": "59.180"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2834,
+                "rank": 3,
+                "firstname": "Edyta",
+                "lastname": "Ropek",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "POL",
+                "federation_id": 36,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "37.310",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": "83.950",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": "4",
+                                "score": "84.950"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": "4",
+                                "score": "fall"
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": "1",
+                                "score": "83.950"
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1468,
+                "rank": 4,
+                "firstname": "Olena",
+                "lastname": "Ryepko",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "28.700",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": "fall",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": "3",
+                                "score": "68.290"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": "3",
+                                "score": "62.870"
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": "2",
+                                "score": "fall"
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1474,
+                "rank": 5,
+                "firstname": "Svitlana",
+                "lastname": "Tuzhylina",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "31.540",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": "70.000",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": "5",
+                                "score": "70.000"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 39,
+                "rank": 6,
+                "firstname": "Mayya",
+                "lastname": "Piratinskaya",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "34.110",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": "71.650",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": "6",
+                                "score": "71.650"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3176,
+                "rank": 7,
+                "firstname": "Francis",
+                "lastname": "Rodriguez",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "VEN",
+                "federation_id": 42,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "38.060",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": "80.860",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": "7",
+                                "score": "80.860"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 46,
+                "rank": 8,
+                "firstname": "Anna",
+                "lastname": "Stenkovaya",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "29.330",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": "fall",
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": "8",
+                                "score": "fall"
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3177,
+                "rank": 9,
+                "firstname": "Rosmery",
+                "lastname": "Da Silva",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "VEN",
+                "federation_id": 42,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "47.290",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3178,
+                "rank": 10,
+                "firstname": "Lucelia",
+                "lastname": "Blanco",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "VEN",
+                "federation_id": 42,
+                "rounds": [
+                    {
+                        "category_round_id": 657,
+                        "round_name": "Qualification",
+                        "score": "48.240",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 658,
+                        "round_name": "Final",
+                        "score": null,
+                        "speed_elimination_stages": [
+                            {
+                                "id": "2",
+                                "name": "1/4 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "3",
+                                "name": "1/2 - Final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "4",
+                                "name": "Small final",
+                                "rank": null,
+                                "score": null
+                            },
+                            {
+                                "id": "5",
+                                "name": "Final",
+                                "rank": null,
+                                "score": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "event_videos": [
+        {
+            "event_name": "SPEED Men",
+            "original_url": "",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Women",
+            "original_url": "",
+            "ipfs_cid": ""
+        }
+    ]
+}

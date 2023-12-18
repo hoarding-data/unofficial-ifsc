@@ -1,0 +1,221 @@
+{
+    "id": 317,
+    "name": "UIAA Worldcup - Val Daone (ITA) 2003",
+    "league_id": 1,
+    "league_season_id": 184,
+    "season_id": 16,
+    "starts_at": "2003-07-25 00:00:00 UTC",
+    "ends_at": "2003-07-26 00:00:00 UTC",
+    "local_start_date": "2003-07-25",
+    "local_end_date": "2003-07-26",
+    "timezone": null,
+    "location": "Val Daone",
+    "public_information": {
+        "organiser_name": null,
+        "organiser_url": null,
+        "venue_name": null
+    },
+    "computed_combined_categories": [],
+    "team_ranking_disciplines": [
+        "speed"
+    ],
+    "team_ranking_url": "/api/v1/events/317/team_results/",
+    "categories": [
+        "SPEED Men",
+        "SPEED Women"
+    ],
+    "results": {
+        "SPEED Men": [
+            {
+                "athlete_id": 1470,
+                "rank": 1,
+                "firstname": "Maksym",
+                "lastname": "Styenkovyy",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4581,
+                "rank": 2,
+                "firstname": "Tomasz",
+                "lastname": "Oleksy",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "POL",
+                "federation_id": 36,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4630,
+                "rank": 3,
+                "firstname": "Alexandre",
+                "lastname": "Chaoulsky",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 48,
+                "rank": 4,
+                "firstname": "Sergei",
+                "lastname": "Sinitcyn",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4631,
+                "rank": 5,
+                "firstname": "Iakov",
+                "lastname": "Soubbotine",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 52,
+                "rank": 6,
+                "firstname": "Alexander",
+                "lastname": "Peshekhonov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4634,
+                "rank": 7,
+                "firstname": "Alexei",
+                "lastname": "Gadeev",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 5174,
+                "rank": 8,
+                "firstname": "Dmytro",
+                "lastname": "Konovalov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": []
+            },
+            {
+                "athlete_id": 5169,
+                "rank": 9,
+                "firstname": "Marat",
+                "lastname": "Sadyrov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 5181,
+                "rank": 10,
+                "firstname": "Ivan",
+                "lastname": "Shyshkovskyy",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": []
+            }
+        ],
+        "SPEED Women": [
+            {
+                "athlete_id": 1468,
+                "rank": 1,
+                "firstname": "Olena",
+                "lastname": "Ryepko",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": []
+            },
+            {
+                "athlete_id": 45,
+                "rank": 2,
+                "firstname": "Valentina",
+                "lastname": "Yurina",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 39,
+                "rank": 3,
+                "firstname": "Mayya",
+                "lastname": "Piratinskaya",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 2834,
+                "rank": 4,
+                "firstname": "Edyta",
+                "lastname": "Ropek",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "POL",
+                "federation_id": 36,
+                "rounds": []
+            },
+            {
+                "athlete_id": 46,
+                "rank": 5,
+                "firstname": "Anna",
+                "lastname": "Stenkovaya",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 5110,
+                "rank": 6,
+                "firstname": "Olesya",
+                "lastname": "Saulevich",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            }
+        ]
+    },
+    "event_videos": [
+        {
+            "event_name": "SPEED Men",
+            "original_url": "",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Women",
+            "original_url": "",
+            "ipfs_cid": ""
+        }
+    ]
+}

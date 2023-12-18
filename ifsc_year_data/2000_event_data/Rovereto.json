@@ -1,0 +1,650 @@
+{
+    "id": 222,
+    "name": "UIAA Worldcup - Rovereto (ITA) 2000",
+    "league_id": 1,
+    "league_season_id": 148,
+    "season_id": 13,
+    "starts_at": "2000-09-15 00:00:00 UTC",
+    "ends_at": "2000-09-16 00:00:00 UTC",
+    "local_start_date": "2000-09-15",
+    "local_end_date": "2000-09-16",
+    "timezone": null,
+    "location": "Rovereto",
+    "public_information": {
+        "organiser_name": null,
+        "organiser_url": null,
+        "venue_name": null
+    },
+    "computed_combined_categories": [],
+    "team_ranking_disciplines": [
+        "boulder"
+    ],
+    "team_ranking_url": "/api/v1/events/222/team_results/",
+    "categories": [
+        "BOULDER Men",
+        "BOULDER Women"
+    ],
+    "results": {
+        "BOULDER Men": [
+            {
+                "athlete_id": 4465,
+                "rank": 1,
+                "firstname": "Salavat",
+                "lastname": "Rakhmetov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4463,
+                "rank": 2,
+                "firstname": "Christian",
+                "lastname": "Core",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4665,
+                "rank": 3,
+                "firstname": "Chris",
+                "lastname": "Sharma",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4502,
+                "rank": 4,
+                "firstname": "Lucio",
+                "lastname": "Giudici",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 402,
+                "rank": 5,
+                "firstname": "Daniel",
+                "lastname": "DU LAC",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4467,
+                "rank": 6,
+                "firstname": "Daniel",
+                "lastname": "ANDRADA JIMENEZ",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4462,
+                "rank": 7,
+                "firstname": "Pedro",
+                "lastname": "Pons",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4477,
+                "rank": 8,
+                "firstname": "Timmy",
+                "lastname": "Fairfield",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CAN",
+                "federation_id": 19,
+                "rounds": []
+            },
+            {
+                "athlete_id": 425,
+                "rank": 9,
+                "firstname": "Stephane",
+                "lastname": "Julien",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 1115,
+                "rank": 10,
+                "firstname": "Jurij",
+                "lastname": "Golob",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4466,
+                "rank": 11,
+                "firstname": "Fr\u00e9d\u00e9ric",
+                "lastname": "Tuscan",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 1204,
+                "rank": 12,
+                "firstname": "Kilian",
+                "lastname": "Fischhuber",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": []
+            },
+            {
+                "athlete_id": 1467,
+                "rank": 13,
+                "firstname": "Serik",
+                "lastname": "Kazbekov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": []
+            },
+            {
+                "athlete_id": 412,
+                "rank": 14,
+                "firstname": "J\u00e9r\u00f4me",
+                "lastname": "Meyer",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4503,
+                "rank": 15,
+                "firstname": "Julien",
+                "lastname": "Meral",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4726,
+                "rank": 16,
+                "firstname": "Matthias",
+                "lastname": "M\u00fcller",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SUI",
+                "federation_id": 8,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4579,
+                "rank": 17,
+                "firstname": "Mikhail",
+                "lastname": "Umnitsyn",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4588,
+                "rank": 18,
+                "firstname": "Marek",
+                "lastname": "Havlik",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": []
+            },
+            {
+                "athlete_id": 1466,
+                "rank": 19,
+                "firstname": "Andrey",
+                "lastname": "Vedenmeer",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4666,
+                "rank": 20,
+                "firstname": "Stefano",
+                "lastname": "Ghidini",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4478,
+                "rank": 21,
+                "firstname": "Jean Luc",
+                "lastname": "Danis",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4468,
+                "rank": 22,
+                "firstname": "Mathieu",
+                "lastname": "Dutray",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4576,
+                "rank": 23,
+                "firstname": "Yevgen",
+                "lastname": "Kryvosheytsev",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": []
+            },
+            {
+                "athlete_id": 2752,
+                "rank": 24,
+                "firstname": "Andrej",
+                "lastname": "Chrastina",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SVK",
+                "federation_id": 34,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4621,
+                "rank": 25,
+                "firstname": "Dennis",
+                "lastname": "Teijsse",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "NED",
+                "federation_id": 50,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4629,
+                "rank": 26,
+                "firstname": "Bernhard",
+                "lastname": "Fiedler",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4648,
+                "rank": 27,
+                "firstname": "Marko",
+                "lastname": "Rozman",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CRO",
+                "federation_id": 38,
+                "rounds": []
+            },
+            {
+                "athlete_id": 1116,
+                "rank": 28,
+                "firstname": "Urh",
+                "lastname": "Cehovin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": []
+            },
+            {
+                "athlete_id": 1356,
+                "rank": 29,
+                "firstname": "Tom\u00e1s",
+                "lastname": "Mr\u00e1zek",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4474,
+                "rank": 30,
+                "firstname": "Riccardo",
+                "lastname": "Scarian",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4667,
+                "rank": 31,
+                "firstname": "Matteo",
+                "lastname": "Bresciani",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4658,
+                "rank": 32,
+                "firstname": "Yuri",
+                "lastname": "Gadenz",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4650,
+                "rank": 33,
+                "firstname": "Robin",
+                "lastname": "Misson",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4476,
+                "rank": 34,
+                "firstname": "Benjamin",
+                "lastname": "Felgerolle",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4668,
+                "rank": 35,
+                "firstname": "Attilio",
+                "lastname": "Munari",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            }
+        ],
+        "BOULDER Women": [
+            {
+                "athlete_id": 430,
+                "rank": 1,
+                "firstname": "Sandrine",
+                "lastname": "Levet",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 41,
+                "rank": 2,
+                "firstname": "Olga",
+                "lastname": "Bibik",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4530,
+                "rank": 3,
+                "firstname": "Liv",
+                "lastname": "Sansoz",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4636,
+                "rank": 4,
+                "firstname": "Leire",
+                "lastname": "Aguirre",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4484,
+                "rank": 5,
+                "firstname": "Vera",
+                "lastname": "Kotasova-Kostruhova",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": []
+            },
+            {
+                "athlete_id": 1469,
+                "rank": 6,
+                "firstname": "Nataliya",
+                "lastname": "Perlova",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4531,
+                "rank": 7,
+                "firstname": "Natalia",
+                "lastname": "Novikova",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": []
+            },
+            {
+                "athlete_id": 848,
+                "rank": 8,
+                "firstname": "Jenny",
+                "lastname": "Lavarda",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4566,
+                "rank": 9,
+                "firstname": "Ruth",
+                "lastname": "Plannels",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4453,
+                "rank": 10,
+                "firstname": "Delphine",
+                "lastname": "Martin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4719,
+                "rank": 11,
+                "firstname": "Mi-Sun",
+                "lastname": "Go",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "KOR",
+                "federation_id": 21,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4637,
+                "rank": 12,
+                "firstname": "Tanja",
+                "lastname": "Bauer",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": []
+            },
+            {
+                "athlete_id": 428,
+                "rank": 13,
+                "firstname": "Corinne",
+                "lastname": "Theroux",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4496,
+                "rank": 14,
+                "firstname": "Mirella",
+                "lastname": "Frati",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4543,
+                "rank": 15,
+                "firstname": "Gerda",
+                "lastname": "Raffetseder",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": []
+            },
+            {
+                "athlete_id": 2210,
+                "rank": 16,
+                "firstname": "Shun-Yuk",
+                "lastname": "Choi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "HKG",
+                "federation_id": 24,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4485,
+                "rank": 17,
+                "firstname": "Kim",
+                "lastname": "Anthoni",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4568,
+                "rank": 18,
+                "firstname": "Nuria",
+                "lastname": "Marti",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4663,
+                "rank": 19,
+                "firstname": "Claudia",
+                "lastname": "Salvadori",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            },
+            {
+                "athlete_id": 4664,
+                "rank": 20,
+                "firstname": "Sara",
+                "lastname": "Perenzoni",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": []
+            }
+        ]
+    },
+    "event_videos": [
+        {
+            "event_name": "BOULDER Men",
+            "original_url": "",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Women",
+            "original_url": "",
+            "ipfs_cid": ""
+        }
+    ]
+}
