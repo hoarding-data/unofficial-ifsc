@@ -1,0 +1,2367 @@
+{
+    "id": 1125,
+    "name": "IFSC Climbing Worldcup (L) - Inzai (JPN) 2019 ",
+    "league_id": 1,
+    "league_season_id": 376,
+    "season_id": 32,
+    "starts_at": "2019-10-26 00:00:00 UTC",
+    "ends_at": "2019-10-27 00:00:00 UTC",
+    "local_start_date": "2019-10-26",
+    "local_end_date": "2019-10-27",
+    "timezone": null,
+    "location": "InzaiWC",
+    "public_information": {
+        "organiser_name": null,
+        "organiser_url": null,
+        "venue_name": null
+    },
+    "computed_combined_categories": [],
+    "team_ranking_disciplines": [
+        "lead"
+    ],
+    "team_ranking_url": "/api/v1/events/1125/team_results/",
+    "categories": [
+        "LEAD Men",
+        "LEAD Women"
+    ],
+    "results": {
+        "LEAD Men": [
+            {
+                "athlete_id": 2285,
+                "rank": 1,
+                "firstname": "Hiroto",
+                "lastname": "Shimizu",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "38+\u00a0\u00a03.  |  38+\u00a0\u00a06. [5.81]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "32+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "38+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 811,
+                "rank": 2,
+                "firstname": "Alberto",
+                "lastname": "Gin\u00e9s L\u00f3pez",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "34+\u00a0\u00a09.  |  Top\u00a0\u00a01. [5.61]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "Top",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "36+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 855,
+                "rank": 3,
+                "firstname": "Stefano",
+                "lastname": "Ghisolfi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "38+\u00a0\u00a03.  |  Top\u00a0\u00a01. [3.67]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "32+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "32+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2301,
+                "rank": 4,
+                "firstname": "Yuki",
+                "lastname": "Hada",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "38+\u00a0\u00a03.  |  Top\u00a0\u00a01. [3.67]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "31+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "28+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1749,
+                "rank": 5,
+                "firstname": "Jesse",
+                "lastname": "Grupper",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "31+\u00a0\u00a014.  |  17+\u00a0\u00a030. [22.62]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "30+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "28+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1559,
+                "rank": 6,
+                "firstname": "Sean",
+                "lastname": "McColl",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CAN",
+                "federation_id": 19,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "38+\u00a0\u00a03.  |  2+\u00a0\u00a054. [15.59]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "34 ",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "27+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 314,
+                "rank": 7,
+                "firstname": "Lo\u00efc",
+                "lastname": "Timmermans",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a019.  |  33+\u00a0\u00a013. [16.72]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "30+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "22+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1741,
+                "rank": 8,
+                "firstname": "Sean",
+                "lastname": "Bailey",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "35+\u00a0\u00a07.  |  31+\u00a0\u00a016. [11.29]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "34 ",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "19+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2307,
+                "rank": 9,
+                "firstname": "Meichi",
+                "lastname": "Narasaki",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "31+\u00a0\u00a014.  |  17+\u00a0\u00a030. [22.62]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "30+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5570,
+                        "round_name": "Final",
+                        "score": "19+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2336,
+                "rank": 10,
+                "firstname": "Shuta",
+                "lastname": "Tanaka",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  38+\u00a0\u00a06. [18.47]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "30 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 649,
+                "rank": 11,
+                "firstname": "James",
+                "lastname": "Pope",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GBR",
+                "federation_id": 11,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "32+\u00a0\u00a013.  |  35+\u00a0\u00a010. [11.68]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "25+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2257,
+                "rank": 12,
+                "firstname": "Rei",
+                "lastname": "Sugimoto",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "30 \u00a0\u00a025.  |  31+\u00a0\u00a016. [20.82]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "25+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2370,
+                "rank": 13,
+                "firstname": "Taisei",
+                "lastname": "Homma",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  35+\u00a0\u00a010. [21.86]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "25+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 318,
+                "rank": 14,
+                "firstname": "Simon",
+                "lastname": "Lorenzi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "30 \u00a0\u00a025.  |  25+\u00a0\u00a021. [23.69]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "25+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3125,
+                "rank": 15,
+                "firstname": "Sebastian",
+                "lastname": "Halenke",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a019.  |  31+\u00a0\u00a016. [19.12]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "25 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 165,
+                "rank": 16,
+                "firstname": "Nikolai",
+                "lastname": "Iarilovets",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a019.  |  18+\u00a0\u00a025. [23.87]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "24 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1389,
+                "rank": 17,
+                "firstname": "Jakub",
+                "lastname": "Konecny",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "29+\u00a0\u00a027.  |  32+\u00a0\u00a014. [19.79]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "22+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1489,
+                "rank": 18,
+                "firstname": "Fedir",
+                "lastname": "Samoilov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  Top\u00a0\u00a01. [2.12]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2273,
+                "rank": 19,
+                "firstname": "Keiichiro",
+                "lastname": "Korenaga",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  38+\u00a0\u00a06. [3.35]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2272,
+                "rank": 20,
+                "firstname": "Kokoro",
+                "lastname": "Fujii",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "34+\u00a0\u00a09.  |  Top\u00a0\u00a01. [5.61]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1773,
+                "rank": 21,
+                "firstname": "Rudolph",
+                "lastname": "Ruana",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "31+\u00a0\u00a014.  |  34+\u00a0\u00a012. [13.64]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2041,
+                "rank": 22,
+                "firstname": "Hanwool",
+                "lastname": "KIM",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "KOR",
+                "federation_id": 21,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "34+\u00a0\u00a09.  |  18+\u00a0\u00a025. [16.68]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1778,
+                "rank": 23,
+                "firstname": "Nathaniel",
+                "lastname": "Coleman",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a019.  |  25+\u00a0\u00a021. [21.75]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 854,
+                "rank": 24,
+                "firstname": "Marcello",
+                "lastname": "Bombardi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "31+\u00a0\u00a014.  |  17+\u00a0\u00a030. [22.62]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2332,
+                "rank": 25,
+                "firstname": "Kai",
+                "lastname": "Harada",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "35+\u00a0\u00a07.  |  38+\u00a0\u00a06. [7.50]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "1.5+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1251,
+                "rank": 26,
+                "firstname": "Mathias",
+                "lastname": "Posch",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "34+\u00a0\u00a09.  |  3+\u00a0\u00a049. [22.80]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5569,
+                        "round_name": "Semi-Final",
+                        "score": "1.5+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2337,
+                "rank": 27,
+                "firstname": "Taisei",
+                "lastname": "Ishimatsu",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "29 \u00a0\u00a028.  |  25+\u00a0\u00a021. [24.82]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2667,
+                "rank": 28,
+                "firstname": "Hannes",
+                "lastname": "Puman",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SWE",
+                "federation_id": 32,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  32+\u00a0\u00a014. [25.69]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2014,
+                "rank": 29,
+                "firstname": "Christoph",
+                "lastname": "Hanke",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "24+\u00a0\u00a035.  |  28 \u00a0\u00a020. [26.46]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 320,
+                "rank": 30,
+                "firstname": "Nicolas",
+                "lastname": "Collin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a019.  |  17+\u00a0\u00a030. [26.64]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1361,
+                "rank": 30,
+                "firstname": "Martin",
+                "lastname": "Stranik",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a019.  |  17+\u00a0\u00a030. [26.64]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2072,
+                "rank": 32,
+                "firstname": "Sungsu",
+                "lastname": "LEE",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "KOR",
+                "federation_id": 21,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "26 \u00a0\u00a031.  |  20 \u00a0\u00a024. [27.50]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 519,
+                "rank": 33,
+                "firstname": "Nao",
+                "lastname": "Monchois",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "31 \u00a0\u00a018.  |  13 \u00a0\u00a044. [28.14]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3983,
+                "rank": 34,
+                "firstname": "Alex",
+                "lastname": "Khazanov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ISR",
+                "federation_id": 60,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  28+\u00a0\u00a019. [29.40]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 793,
+                "rank": 35,
+                "firstname": "Mikel Asier",
+                "lastname": "Linacisoro Molina",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ESP",
+                "federation_id": 12,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "25+\u00a0\u00a033.  |  18+\u00a0\u00a025. [29.57]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1138,
+                "rank": 36,
+                "firstname": "Anze",
+                "lastname": "Peharc",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "27+\u00a0\u00a029.  |  17+\u00a0\u00a030. [31.20]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 857,
+                "rank": 36,
+                "firstname": "Michael",
+                "lastname": "Piccolruaz",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "27+\u00a0\u00a029.  |  17+\u00a0\u00a030. [31.20]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 437,
+                "rank": 38,
+                "firstname": "Romain",
+                "lastname": "Desgranges",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "15 \u00a0\u00a038.  |  18+\u00a0\u00a025. [31.73]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2101,
+                "rank": 39,
+                "firstname": "Dohyun",
+                "lastname": "LEE",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "KOR",
+                "federation_id": 21,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "26 \u00a0\u00a031.  |  16+\u00a0\u00a039. [35.50]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2214,
+                "rank": 40,
+                "firstname": "Ka-chun",
+                "lastname": "Yau",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "HKG",
+                "federation_id": 24,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "25 \u00a0\u00a034.  |  17 \u00a0\u00a037. [35.71]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2368,
+                "rank": 41,
+                "firstname": "Hidemasa",
+                "lastname": "Nishida",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  18 \u00a0\u00a029. [36.32]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3929,
+                "rank": 42,
+                "firstname": "Winai",
+                "lastname": "Ruangrit",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "THA",
+                "federation_id": 59,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "19 \u00a0\u00a036.  |  17 \u00a0\u00a037. [37.00]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3268,
+                "rank": 43,
+                "firstname": "Fatchur",
+                "lastname": "Roji",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "INA",
+                "federation_id": 45,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "19 \u00a0\u00a036.  |  15+\u00a0\u00a042. [39.15]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2217,
+                "rank": 44,
+                "firstname": "Chi-fung",
+                "lastname": "AU",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "HKG",
+                "federation_id": 24,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  16+\u00a0\u00a039. [42.66]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 109,
+                "rank": 44,
+                "firstname": "Aleksandr",
+                "lastname": "Shikov",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  16+\u00a0\u00a039. [42.66]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3938,
+                "rank": 46,
+                "firstname": "Teeraphon",
+                "lastname": "Boondech",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "THA",
+                "federation_id": 59,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  15 \u00a0\u00a043. [44.23]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2530,
+                "rank": 47,
+                "firstname": "Joshua",
+                "lastname": "Damasco",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUS",
+                "federation_id": 28,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  12+\u00a0\u00a045. [46.00]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3270,
+                "rank": 47,
+                "firstname": "ALFIAN",
+                "lastname": "MUHAMMAD FAJRI",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "INA",
+                "federation_id": 45,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  12+\u00a0\u00a045. [46.00]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1502,
+                "rank": 47,
+                "firstname": "Mykhayil",
+                "lastname": "Tkachuk",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  12+\u00a0\u00a045. [46.00]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2929,
+                "rank": 47,
+                "firstname": "QIXIN",
+                "lastname": "ZHONG",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CHN",
+                "federation_id": 37,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  12+\u00a0\u00a045. [46.00]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1372,
+                "rank": 51,
+                "firstname": "Jan",
+                "lastname": "Kriz",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CZE",
+                "federation_id": 17,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  3+\u00a0\u00a049. [47.46]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1754,
+                "rank": 52,
+                "firstname": "John",
+                "lastname": "Brosler",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a039.  |  3 \u00a0\u00a051. [48.64]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3278,
+                "rank": 53,
+                "firstname": "ASPAR",
+                "lastname": "ASPAR",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "INA",
+                "federation_id": 45,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "13 \u00a0\u00a053.  |  3 \u00a0\u00a051. [52.50]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2845,
+                "rank": 54,
+                "firstname": "Marcin",
+                "lastname": "Dzienski",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "POL",
+                "federation_id": 36,
+                "rounds": [
+                    {
+                        "category_round_id": 5568,
+                        "round_name": "Qualification",
+                        "score": "10+\u00a0\u00a054.  |  3 \u00a0\u00a051. [52.99]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            }
+        ],
+        "LEAD Women": [
+            {
+                "athlete_id": 2035,
+                "rank": 1,
+                "firstname": "Jain",
+                "lastname": "Kim",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "KOR",
+                "federation_id": 21,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  Top\u00a0\u00a01. [4.18]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "33+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5567,
+                        "round_name": "Final",
+                        "score": "Top",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1147,
+                "rank": 2,
+                "firstname": "Janja",
+                "lastname": "Garnbret",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  Top\u00a0\u00a01. [4.18]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "41 ",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5567,
+                        "round_name": "Final",
+                        "score": "39 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2080,
+                "rank": 3,
+                "firstname": "Chaehyun",
+                "lastname": "SEO",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "KOR",
+                "federation_id": 21,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "35+\u00a0\u00a010.  |  35+\u00a0\u00a08. [9.99]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "33+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5567,
+                        "round_name": "Final",
+                        "score": "37+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2253,
+                "rank": 4,
+                "firstname": "Akiyo",
+                "lastname": "Noguchi",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  Top\u00a0\u00a01. [4.18]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "30 ",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5567,
+                        "round_name": "Final",
+                        "score": "36+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2294,
+                "rank": 5,
+                "firstname": "Miho",
+                "lastname": "Nonaka",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "35+\u00a0\u00a010.  |  Top\u00a0\u00a01. [6.06]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "28+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5567,
+                        "round_name": "Final",
+                        "score": "34+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2381,
+                "rank": 6,
+                "firstname": "Natsuki",
+                "lastname": "Tanii",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  35 \u00a0\u00a012. [7.91]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "28+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5567,
+                        "round_name": "Final",
+                        "score": "34+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 928,
+                "rank": 7,
+                "firstname": "Laura",
+                "lastname": "Rogora",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "ITA",
+                "federation_id": 13,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  36 \u00a0\u00a07. [5.92]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "28+",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5567,
+                        "round_name": "Final",
+                        "score": "20 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2287,
+                "rank": 8,
+                "firstname": "Aika",
+                "lastname": "Tajima",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a017.  |  35+\u00a0\u00a08. [13.61]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "29 ",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5567,
+                        "round_name": "Final",
+                        "score": "19+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 642,
+                "rank": 9,
+                "firstname": "Molly",
+                "lastname": "Thompson-Smith",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GBR",
+                "federation_id": 11,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "33+\u00a0\u00a013.  |  28+\u00a0\u00a022. [17.62]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "28+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 469,
+                "rank": 10,
+                "firstname": "Fanny",
+                "lastname": "Gibert",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "28+\u00a0\u00a026.  |  31+\u00a0\u00a015. [21.22]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "28+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 11620,
+                "rank": 11,
+                "firstname": "Luce",
+                "lastname": "Douady",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "33+\u00a0\u00a013.  |  31+\u00a0\u00a015. [15.15]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "28 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2357,
+                "rank": 12,
+                "firstname": "Futaba",
+                "lastname": "Ito",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "29+\u00a0\u00a023.  |  32+\u00a0\u00a014. [18.14]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "28 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1753,
+                "rank": 13,
+                "firstname": "Margo",
+                "lastname": "Hayes",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  31+\u00a0\u00a015. [9.22]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1750,
+                "rank": 14,
+                "firstname": "Kyra",
+                "lastname": "Condie",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a017.  |  35+\u00a0\u00a08. [13.61]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "26+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2369,
+                "rank": 15,
+                "firstname": "Natsumi",
+                "lastname": "Hirano",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "33 \u00a0\u00a015.  |  31+\u00a0\u00a015. [15.97]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "23 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1160,
+                "rank": 16,
+                "firstname": "Lucka",
+                "lastname": "Rakovec",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  Top\u00a0\u00a01. [4.18]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "22+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1239,
+                "rank": 17,
+                "firstname": "Julia",
+                "lastname": "Fiser",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a017.  |  25 \u00a0\u00a029. [23.98]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "21 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 328,
+                "rank": 18,
+                "firstname": "Helo\u00efse",
+                "lastname": "Doumont",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "BEL",
+                "federation_id": 9,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a017.  |  35 \u00a0\u00a012. [15.61]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "20+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1270,
+                "rank": 19,
+                "firstname": "Sandra",
+                "lastname": "Lettner",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a017.  |  31+\u00a0\u00a015. [18.21]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "20 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2380,
+                "rank": 20,
+                "firstname": "Ai",
+                "lastname": "Mori",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  Top\u00a0\u00a01. [4.18]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "19 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1210,
+                "rank": 21,
+                "firstname": "Christine",
+                "lastname": "Schranz",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUT",
+                "federation_id": 16,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "34 \u00a0\u00a012.  |  35+\u00a0\u00a08. [10.68]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "15 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1161,
+                "rank": 22,
+                "firstname": "Mia",
+                "lastname": "Krampl",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "SLO",
+                "federation_id": 15,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "Top\u00a0\u00a01.  |  31 \u00a0\u00a020. [10.12]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "14+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2267,
+                "rank": 23,
+                "firstname": "Risa",
+                "lastname": "Ota",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "29 \u00a0\u00a025.  |  31 \u00a0\u00a020. [22.64]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "13 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2270,
+                "rank": 24,
+                "firstname": "Yuki",
+                "lastname": "Hiroshige",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "29+\u00a0\u00a023.  |  28+\u00a0\u00a022. [23.25]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "11 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3060,
+                "rank": 25,
+                "firstname": "Tina Johnsen",
+                "lastname": "Hafsaas",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "NOR",
+                "federation_id": 39,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "30+\u00a0\u00a017.  |  28+\u00a0\u00a022. [21.18]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "10+",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 147,
+                "rank": 26,
+                "firstname": "Viktoriia",
+                "lastname": "Meshkova",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "32+\u00a0\u00a016.  |  27 \u00a0\u00a027. [20.78]",
+                        "speed_elimination_stages": []
+                    },
+                    {
+                        "category_round_id": 5566,
+                        "round_name": "Semi-Final",
+                        "score": "10 ",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1565,
+                "rank": 27,
+                "firstname": "Alannah",
+                "lastname": "Yip",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "CAN",
+                "federation_id": 19,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "28+\u00a0\u00a026.  |  28 \u00a0\u00a025. [25.74]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 144,
+                "rank": 28,
+                "firstname": "Elena",
+                "lastname": "Krasovskaia",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "28 \u00a0\u00a028.  |  27+\u00a0\u00a026. [26.98]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2403,
+                "rank": 29,
+                "firstname": "Hana",
+                "lastname": "KUDO",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "22 \u00a0\u00a030.  |  25+\u00a0\u00a028. [28.98]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 514,
+                "rank": 30,
+                "firstname": "Nina",
+                "lastname": "Arthaud",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "FRA",
+                "federation_id": 10,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "22+\u00a0\u00a029.  |  24+\u00a0\u00a031. [30.46]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2278,
+                "rank": 31,
+                "firstname": "Mei",
+                "lastname": "Kotake",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "17+\u00a0\u00a033.  |  25 \u00a0\u00a029. [31.67]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2501,
+                "rank": 32,
+                "firstname": "Oceania",
+                "lastname": "Mackenzie",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUS",
+                "federation_id": 28,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "17+\u00a0\u00a033.  |  23+\u00a0\u00a034. [34.50]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 1526,
+                "rank": 33,
+                "firstname": "Nika",
+                "lastname": "Potapova",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "UKR",
+                "federation_id": 18,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "12+\u00a0\u00a040.  |  24+\u00a0\u00a031. [35.78]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3354,
+                "rank": 34,
+                "firstname": "Afra",
+                "lastname": "H\u00f6nig",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "19 \u00a0\u00a032.  |  22 \u00a0\u00a040. [36.00]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4328,
+                "rank": 35,
+                "firstname": "Alma",
+                "lastname": "Bestvater",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GER",
+                "federation_id": 6,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a036.  |  23+\u00a0\u00a034. [36.23]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 693,
+                "rank": 36,
+                "firstname": "Emily",
+                "lastname": "Phillips",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "GBR",
+                "federation_id": 11,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "21 \u00a0\u00a031.  |  20+\u00a0\u00a043. [36.51]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 4755,
+                "rank": 37,
+                "firstname": "Alex",
+                "lastname": "Johnson",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "17+\u00a0\u00a033.  |  22 \u00a0\u00a040. [37.11]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2139,
+                "rank": 38,
+                "firstname": "Hung Ying",
+                "lastname": "Lee",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "TPE",
+                "federation_id": 22,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a036.  |  22+\u00a0\u00a037. [37.75]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2488,
+                "rank": 38,
+                "firstname": "Lucinda Ann",
+                "lastname": "Stirling",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "AUS",
+                "federation_id": 28,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a036.  |  22+\u00a0\u00a037. [37.75]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2371,
+                "rank": 40,
+                "firstname": "Miu",
+                "lastname": "Kurita",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "JPN",
+                "federation_id": 25,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "11 \u00a0\u00a041.  |  23+\u00a0\u00a034. [37.88]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2141,
+                "rank": 41,
+                "firstname": "Hsiu-Ju",
+                "lastname": "Lin",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "TPE",
+                "federation_id": 22,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4 \u00a0\u00a048.  |  24+\u00a0\u00a031. [40.00]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2879,
+                "rank": 42,
+                "firstname": "Natalia",
+                "lastname": "Kalucka",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "POL",
+                "federation_id": 36,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4+\u00a0\u00a043.  |  21 \u00a0\u00a042. [43.47]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2070,
+                "rank": 43,
+                "firstname": "Lan",
+                "lastname": "Kim",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "KOR",
+                "federation_id": 21,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4 \u00a0\u00a048.  |  22+\u00a0\u00a037. [43.59]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2878,
+                "rank": 44,
+                "firstname": "Aleksandra",
+                "lastname": "Kalucka",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "POL",
+                "federation_id": 36,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "13+\u00a0\u00a036.  |  7 \u00a0\u00a051. [43.95]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3290,
+                "rank": 45,
+                "firstname": "NURUL",
+                "lastname": "IQAMAH",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "INA",
+                "federation_id": 45,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "5+\u00a0\u00a042.  |  13+\u00a0\u00a046. [43.95]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3925,
+                "rank": 46,
+                "firstname": "Puntarika",
+                "lastname": "Tunyavanich",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "THA",
+                "federation_id": 59,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4+\u00a0\u00a043.  |  20 \u00a0\u00a044. [44.75]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2855,
+                "rank": 47,
+                "firstname": "Anna",
+                "lastname": "Brozek",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "POL",
+                "federation_id": 36,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4+\u00a0\u00a043.  |  13 \u00a0\u00a047. [45.99]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 11939,
+                "rank": 48,
+                "firstname": "Estelle",
+                "lastname": "Park",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "USA",
+                "federation_id": 20,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4 \u00a0\u00a048.  |  20 \u00a0\u00a044. [47.17]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3337,
+                "rank": 49,
+                "firstname": "Aries",
+                "lastname": "Susanti Rahayu",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "INA",
+                "federation_id": 45,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4+\u00a0\u00a043.  |  11 \u00a0\u00a049. [47.20]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 3928,
+                "rank": 50,
+                "firstname": "Pratthana",
+                "lastname": "Raksachat",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "THA",
+                "federation_id": 59,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4+\u00a0\u00a043.  |  7 \u00a0\u00a051. [48.14]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 110,
+                "rank": 51,
+                "firstname": "Iuliia",
+                "lastname": "Kaplina",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "RUS",
+                "federation_id": 7,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4 \u00a0\u00a048.  |  11+\u00a0\u00a048. [48.99]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            },
+            {
+                "athlete_id": 2213,
+                "rank": 52,
+                "firstname": "Ka-yan",
+                "lastname": "Wong ",
+                "paraclimbing_sport_class": null,
+                "sport_class_status": null,
+                "country": "HKG",
+                "federation_id": 24,
+                "rounds": [
+                    {
+                        "category_round_id": 5565,
+                        "round_name": "Qualification",
+                        "score": "4 \u00a0\u00a048.  |  11 \u00a0\u00a049. [49.75]",
+                        "speed_elimination_stages": []
+                    }
+                ]
+            }
+        ]
+    },
+    "event_videos": [
+        {
+            "event_name": "LEAD Men",
+            "original_url": "",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "LEAD Women",
+            "original_url": "",
+            "ipfs_cid": ""
+        }
+    ]
+}
