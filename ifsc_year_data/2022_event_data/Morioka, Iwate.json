@@ -26,6 +26,23 @@
         "BOULDER&LEAD Men",
         "BOULDER&LEAD Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "BOULDER&LEAD Semi-Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=A1hyEmuJXMo",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER&LEAD Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=t50471uh7bM",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER&LEAD Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=Du-tUzWZ65A",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "BOULDER&LEAD Men": [
             {
@@ -11234,17 +11251,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "BOULDER&LEAD Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER&LEAD Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }
