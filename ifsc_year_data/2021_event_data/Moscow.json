@@ -37,6 +37,43 @@
         "COMBINED Men",
         "COMBINED Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "LEAD Semi-Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=j1-4hfab4xg",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "LEAD Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=zgbDv8QsdnQ",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=sKA3nT86trM",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Semi-Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=InamGY_UhQ4",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=bfVUTrZisPk",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Semi-Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=GCTrQLxjTnk",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=M5Qpj86XEsY",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "LEAD Men": [
             {
@@ -30892,47 +30929,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "LEAD Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "LEAD Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "COMBINED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "COMBINED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }

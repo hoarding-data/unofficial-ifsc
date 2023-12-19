@@ -26,6 +26,18 @@
         "COMBINED Men",
         "COMBINED Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "COMBINED Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=8_F2lJ5HhNA",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "COMBINED Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=PDHTgJI8NE4",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "COMBINED Men": [
             {
@@ -6343,17 +6355,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "COMBINED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "COMBINED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }
