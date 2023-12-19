@@ -38,6 +38,28 @@
         "COMBINED Men",
         "COMBINED Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "LEAD Qualification (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=IurYa8B2iHE",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Qualification (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=wn0x6-GywWA",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Qualification (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=qc9G1V10i94",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "COMBINED Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=1nZB-YeGJuY",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "LEAD Men": [
             {
@@ -23319,47 +23341,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "LEAD Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "LEAD Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "COMBINED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "COMBINED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }
