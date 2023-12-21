@@ -26,6 +26,18 @@
         "SPEED Men",
         "SPEED Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "SPEED Qualifications",
+            "original_url": "https://www.youtube.com/watch?v=iTDSiXLn0Xw",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Finals",
+            "original_url": "https://www.youtube.com/watch?v=PSKWTWru-3A",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "SPEED Men": [
             {
@@ -5993,17 +6005,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "SPEED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }

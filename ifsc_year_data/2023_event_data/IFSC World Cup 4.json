@@ -26,6 +26,28 @@
         "BOULDER Men",
         "BOULDER Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "BOULDER Semi-Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=O88jFbeoZWM",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=HDT6sOLeB0I",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Semi-Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=2B_fZ2ViAOo",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=DkMHSYzeflQ",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "BOULDER Men": [
             {
@@ -17547,17 +17569,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "BOULDER Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }
