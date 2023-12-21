@@ -29,6 +29,48 @@
         "SPEED Men",
         "SPEED Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "BOULDER Semi-Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=_8id2biZ-j0",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=MU2RQo273TY",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Semi-Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=L3hfbTCu7Lc",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=BoMLaSywonc",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Qualifications (F)",
+            "original_url": "",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Qualifications (M)",
+            "original_url": "https://www.youtube.com/watch?v=fNhojRyf9do",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=RMHaYgo9djM",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=dRNb3xfZ16E",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "BOULDER Men": [
             {
@@ -19754,27 +19796,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "BOULDER Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }
