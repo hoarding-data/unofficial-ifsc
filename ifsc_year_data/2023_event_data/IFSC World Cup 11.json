@@ -29,6 +29,28 @@
         "SPEED Men",
         "SPEED Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "LEAD Semi-Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=TAs1sL84HnM",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "LEAD Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=C7DkvNuYFs4",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=789CAu-o2BA",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Women",
+            "original_url": "",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "LEAD Men": [
             {
@@ -9508,27 +9530,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "LEAD Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "LEAD Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }

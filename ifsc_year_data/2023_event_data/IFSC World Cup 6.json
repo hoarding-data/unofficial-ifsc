@@ -29,6 +29,38 @@
         "LEAD Men",
         "LEAD Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "BOULDER Semi-Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=9ZMpF6qNjfs",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=GniLH6sXlXc",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Semi-Finals(M)",
+            "original_url": "https://www.youtube.com/watch?v=eqDnjXqy7oU",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "BOULDER Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=zt8OZx7qS8o",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "LEAD Semi-Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=9-Gurj4CW_w",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "LEAD Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=T8PBP_xPH_4",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "BOULDER Men": [
             {
@@ -29406,27 +29438,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "BOULDER Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "LEAD Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "LEAD Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }
