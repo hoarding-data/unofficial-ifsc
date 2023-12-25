@@ -7,3 +7,13 @@ I am not including the base file "full_data.json" because it is large, but you c
 2023 is missing Seoul which I believe is due to weather. Only 1 of four recordings appears to be available on youtube. Also a lot of the continental qualifiers for 2024 olympics
 2020 I can't find recordings for some of the continental events.
 2019 is missing Hachioji which is the championship and Toulouse which was a qualifier event.
+
+2013 videos:
+- missing climbing championship at chamonix
+- missing innsbruck bouldering finals
+- missing briancon lead finals
+- missing kranj lead mens qualis
+- Mokbo speed finals video also includes qualis
+- No videos for wujiang chongqing or haiyang?
+- no event for european championship at laval
+2012 videos are confusing. Not well labelled so skipping for now
