@@ -8,6 +8,10 @@ I am not including the base file "full_data.json" because it is large, but you c
 2020 I can't find recordings for some of the continental events.
 2019 is missing Hachioji which is the championship and Toulouse which was a qualifier event.
 
+2014 videos:
+- Gijon was championships but only had lead?
+- Chamonix missing lead finals
+- no recordings of briancon, chongqing, and haiyang
 2013 videos:
 - missing climbing championship at chamonix
 - missing innsbruck bouldering finals
