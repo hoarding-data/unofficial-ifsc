@@ -27,6 +27,18 @@
         "SPEED Men",
         "SPEED Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "BOULDER Semi-Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=iIsP4Uj3jzQ",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "SPEED Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=DRtCmG_RC-g",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "BOULDER Men": [
             {
@@ -22544,27 +22556,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "BOULDER Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "BOULDER Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "SPEED Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }
