@@ -24,6 +24,23 @@
         "LEAD Men",
         "LEAD Women"
     ],
+    "event_videos": [
+        {
+            "event_name": "LEAD Semi-Finals (M)",
+            "original_url": "https://www.youtube.com/watch?v=Z7S7sNkmL-4",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "LEAD Semi-Finals (F)",
+            "original_url": "https://www.youtube.com/watch?v=lA01mvGkfe8",
+            "ipfs_cid": ""
+        },
+        {
+            "event_name": "LEAD Finals (M/F)",
+            "original_url": "https://www.youtube.com/watch?v=h54_akkODQY",
+            "ipfs_cid": ""
+        }
+    ],
     "results": {
         "LEAD Men": [
             {
@@ -3065,17 +3082,5 @@
                 ]
             }
         ]
-    },
-    "event_videos": [
-        {
-            "event_name": "LEAD Men",
-            "original_url": "",
-            "ipfs_cid": ""
-        },
-        {
-            "event_name": "LEAD Women",
-            "original_url": "",
-            "ipfs_cid": ""
-        }
-    ]
+    }
 }

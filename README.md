@@ -8,6 +8,11 @@ I am not including the base file "full_data.json" because it is large, but you c
 2020 I can't find recordings for some of the continental events.
 2019 is missing Hachioji which is the championship and Toulouse which was a qualifier event.
 
+2017 videos:
+- villars missing lead both?
+- munich missing boulder finals
+- arco missing lead both?
+- edinburgh missing lead semis
 2016 videos:
 - missing villars finals
 - paris: mens boulder semis, womens speed finals, lead semis women, lead finals men
