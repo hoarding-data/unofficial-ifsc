@@ -2,7 +2,7 @@ This project utilized the work of https://github.com/stanrusak/climbingstats for
 
 This is only adult standard w/c data (no youth, no paraclimbing at this time).
 
-I am not including the base file "full_data.json" because it is large, but you can generate it using his repository if the combined format is of more use to you.
+I am not including the base file "full_data.json" because it is large, but you can generate it using stanrusak's repo (above). The "ifsc_year_data.json" files are the result of separating out that full data file by each "year" key.
 
 2023 is missing Seoul which I believe is due to weather. Only 1 of four recordings appears to be available on youtube. Also a lot of the continental qualifiers for 2024 olympics
 2020 I can't find recordings for some of the continental events.
@@ -23,9 +23,7 @@ I am not including the base file "full_data.json" because it is large, but you c
 - paris: mens boulder semis, womens speed finals, lead semis women, lead finals men
 - no videos for chongqing, meiringen, munich, nanjing, wujiang, xiamen
 2015 videos:
-- Stavanger missing lead semis
-- Munich missing bouldering semis
-- No videos for wujiang and haiyang?
+- I think 2015 is complete
 2014 videos:
 - Briancon missing lead finals (cancelled due to rain? results in that file only show semis and there's this video: https://www.youtube.com/watch?v=LUQ-WXdmdzQ)
 2013 videos:
