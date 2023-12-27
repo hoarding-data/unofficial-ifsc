@@ -27,13 +27,9 @@ I am not including the base file "full_data.json" because it is large, but you c
 - Munich missing bouldering semis
 - No videos for wujiang and haiyang?
 2014 videos:
-- Gijon was championships but only had lead?
-- Chamonix missing lead finals
-- no recordings of briancon, chongqing, and haiyang
+- Briancon missing lead finals (cancelled due to rain? results in that file only show semis and there's this video: https://www.youtube.com/watch?v=LUQ-WXdmdzQ)
 2013 videos:
-- missing climbing championship at chamonix
-- missing innsbruck bouldering finals
-- missing briancon lead finals
+- missing climbing championship file at chamonix
 - missing kranj lead mens qualis
 - Mokbo speed finals video also includes qualis
 - No videos for wujiang chongqing or haiyang?
